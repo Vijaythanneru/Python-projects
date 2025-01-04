@@ -45,3 +45,8 @@ git clone -b <branchname>
 git add .
 git commit -m "Edited read me"
 git push
+
+
+--to pull changes from git server
+git pull
+
