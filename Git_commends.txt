@@ -39,6 +39,8 @@ git push -u origin main
 
 -- Git Main commands
 
+git clone https://github.com/Vijaythanneru/Python-projects.git
+git clone -b <branchname>
 
 git add .
 git commit -m "Edited read me"
