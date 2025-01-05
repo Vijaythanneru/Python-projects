@@ -1,0 +1,26 @@
+
+Visiual code ext need
+
+. Python
+2.Copilot
+3. autoDocstring – Python Docstring Generator
+4. Python Snippets
+5. AREPL for python
+6. Better Comments
+7. Python Docstring Generator
+8. Python Indent
+9. Python Test Explorer
+
+
+
+python ->.py
+jupyter notebooks - .ipynb
+
+--to know where python is stored
+which python
+
+--Create vertual enve in cam promnt
+python -m venv test
+
+
+https://www.geeksforgeeks.org/python-basics/?ref=ml_lbp
