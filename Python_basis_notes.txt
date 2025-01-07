@@ -16,11 +16,22 @@ Visiual code ext need
 python ->.py
 jupyter notebooks - .ipynb
 
---to know where python is stored
-which python
+
 
 --Create vertual enve in cam promnt
 python -m venv test
 
 
 https://www.geeksforgeeks.org/python-basics/?ref=ml_lbp
+
+
+Python Instalation steps
+C:\Users\Windows 11\AppData\Local\Programs\Python\Python312\
+C:\Users\Windows 11\AppData\Local\Programs\Python\Python312\Scripts\
+
+python --version
+
+--to know where python is stored (will not work in CMD, for gitbash)
+which python
+--for Windows
+where python
