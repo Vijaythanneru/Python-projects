@@ -1,1 +1,2 @@
-print("First Python Program")
+a = input()
+print(a+1)
