@@ -35,3 +35,24 @@ python --version
 which python
 --for Windows
 where python
+
+
+To run a python file on Cmd promdt
+python <file name>.py
+
+Notes :
+https://github.com/hemsush/python_notebooks
+
+
+ordered collections
+list - []
+tuple - ()
+unordered
+
+a=1
+b=2
+c=3
+4=4
+
+set={}
+dict={'key':value}

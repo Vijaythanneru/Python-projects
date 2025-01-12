@@ -1,0 +1,23 @@
+
+bash shell (linux)
+
+
+ls -> list
+
+cd -> change directory
+
+
+cd /..
+cd ~
+
+cd D:\HPZenBot\HPZenBot
+
+vi editor
+
+vi x.tct 
+i
+:wq
+
+touch a.txt
+cat a.txt>>1.txt
+nano
